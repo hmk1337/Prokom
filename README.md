@@ -8,4 +8,4 @@ dari user (pengguna)! [Bilangan perjumlahan](https://github.com/hmk1337/Prokom/b
 jarak yang ada dengan menggunakan input dari user! [menghitung waktu](https://github.com/hmk1337/Prokom/blob/main/kecepatan.cpp)
 3. Buatlah program konversi mata uang rupiah ke dolar dengan menggunakan input dari
 user yaitu yang berupa nominal mata uang rupiah, jika diketahui untuk 1 USD = Rp
-9.600,-[convert idr ke usd](https://github.com/hmk1337/Prokom/blob/main/kecepatan.cpp)
+9.600,-[convert idr ke usd](https://github.com/hmk1337/Prokom/blob/main/idr_usd.cpp)
