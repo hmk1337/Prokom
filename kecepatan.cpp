@@ -1,15 +1,17 @@
 #include <iostream>
+#include<iomanip>
+
 using namespace std;
 
 int main() {
 
     float v,s,t;
-    cout<<"Masukan Jarak tempuh (Km) : ";
+    cout<<"Masukan Jarak tempuh Anda (Km) : ";
     cin>> s;
-    cout<<"Masukan Waktu Tempuh (Jam) : ";
-    cin>> t;
-    v = s/t;
-    cout<<"Kecepatan (Km/jam)         :" <<v;
+    cout<<"Masukan Kecepatan anda (Km/jam)  :  ";
+    cin>> v;
+    t=s/v;
+    cout<<"Waktu Tempuh (Jam)         :"<<setprecision(3)<<t;
     return 0;
 
 
