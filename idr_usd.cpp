@@ -1,4 +1,5 @@
 #include <iostream>
+#include<iomanip>
 using namespace std;
 
 int main() {
@@ -8,7 +9,7 @@ int main() {
     cin>> idr;
     usd=9600;
     hasil = idr/usd;
-    cout<<"hasil jika di konversi ke USD:  $" <<hasil;;
+    cout<<"hasil jika di konversi ke USD:  $"<<setprecision(3)<<hasil;;
     return 0;
 
 
