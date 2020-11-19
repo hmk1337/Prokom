@@ -32,3 +32,19 @@ inputkan bilangan 3= 22
 bilangan terbesar adalah= 22
 
 [Nilai Terbesar](https://github.com/hmk1337/Prokom/blob/main/nilaiterbesar.cpp)
+
+# Soal & Jawab
+Tugas 3
+1. Algoritma menentukan batas usia
+/* Algoritma Menentukan Batas Umur Usia
+Bayi = 0-1 tahun
+Batita = 1-3 tahun
+Balita = 3-5 tahun
+Anak-Anak = 5-12 tahun
+Remaja = 12-17 tahun
+Pemuda = 17-30 tahun
+Dewasa = 30-60 tahun
+Lansia = >60 tahun
+Yang diinput Nama dan tahun lahir 
+[usia](https://github.com/hmk1337/Prokom/blob/main/usia.cpp)
+
