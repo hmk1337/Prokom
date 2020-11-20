@@ -3,8 +3,9 @@ using namespace std;
 
 int main() {
     int tahun;
-    string nama;
-    cout << "Masukan Nama Anda = "; cin>>nama;
+    char nama[20];
+    // Fix inputan nama agar bisa terinput dengan spasi
+    cout << "Masukan Nama Anda = ";cin.getline(nama,20);
     cout << "Masukan tahun Anda = "; cin>>tahun;
 
 
@@ -52,3 +53,4 @@ int main() {
     return 0;
 
 }
+
