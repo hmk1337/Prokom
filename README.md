@@ -48,3 +48,16 @@ Lansia = >60 tahun
 Yang diinput Nama dan tahun lahir 
 [usia](https://github.com/hmk1337/Prokom/blob/main/usia.cpp)
 
+
+# Soal & Jawab
+Tugas 4
+1. Buatlah program untuk menampilkan deret angka dengan menggunakan salah
+satu perulangan for, while, do...while!
+Output: 1 2 3 4 5 6 7 8 9
+[for](https://github.com/hmk1337/Prokom/blob/main/for.cpp)
+2. Buatlah program untuk menghitung nilai factorial berdasarkan angka yang
+dimasukkan!
+Output:
+Hitung nilai factorial = 5
+5 x 4 x 3 x 2 x 1 = 120
+[faktorial](https://github.com/hmk1337/Prokom/blob/main/faktorial.cpp)
