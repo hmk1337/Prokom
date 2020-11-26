@@ -61,3 +61,11 @@ Output:
 Hitung nilai factorial = 5
 5 x 4 x 3 x 2 x 1 = 120
 [faktorial](https://github.com/hmk1337/Prokom/blob/main/faktorial.cpp)
+
+# Soal & Jawab
+Tugas 5
+1. Buat program untuk menampilkan table konversi suhu dari satuan Celcius ke Reamur,
+Fahrenheit dan Kelvin. Suhu dari 0˚C sampai dengan 100˚C dengan kenaikan sebesar 10˚C.
+[tabel_konversi_suhu](https://github.com/hmk1337/Prokom/blob/main/tabel_konversi_suhu.cpp)
+2. Buatlah program untuk menampilkan pola gambar berikut:
+[pola bintang](https://github.com/hmk1337/Prokom/blob/main/pola_bintang.cpp)
