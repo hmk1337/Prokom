@@ -14,7 +14,7 @@ int faktorial(int bil,int hasil){
         faktorial(bil-1,hasil);
     }
 
-    return 0;
+   
 }
 
 int main(){
@@ -23,4 +23,5 @@ int main(){
     cin>>bil;
     cout<<"Hitung nilai factorial "<<bil<<" = ";
     cout<<faktorial(bil,hasil);
+    return 0;
 }
