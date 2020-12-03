@@ -72,5 +72,5 @@ Fahrenheit dan Kelvin. Suhu dari 0˚C sampai dengan 100˚C dengan kenaikan sebes
 
 # Soal & Jawab
 Tugas 6
-1. Buatlah program untuk mengkonversi data decimal ke biner! [desimal to biner] (https://github.com/hmk1337/Prokom/blob/main/decimal_to_biner.cpp)
-2. Buatlah program untuk menjumlahkan matriks 2x2! [matriks2x2] (https://github.com/hmk1337/Prokom/blob/main/matriks2x2.cpp)
+1. Buatlah program untuk mengkonversi data decimal ke biner! [desimal to biner](https://github.com/hmk1337/Prokom/blob/main/decimal_to_biner.cpp)
+2. Buatlah program untuk menjumlahkan matriks 2x2! [matriks2x2](https://github.com/hmk1337/Prokom/blob/main/matriks2x2.cpp)
