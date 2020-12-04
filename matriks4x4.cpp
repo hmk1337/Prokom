@@ -6,7 +6,7 @@ using namespace std ;
 
 
 int main(){
-	int z;
+    int z;
     cout<<"Masukan Jumlah Matrix yang di inginkan : ";
     cin>>z;
     
