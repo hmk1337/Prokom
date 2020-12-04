@@ -78,4 +78,4 @@ Tugas 6
 # Soal & Jawab
 Tugas 7
 1. Buat program penjumlah, pengurangan dan perkalian matriks dengan input matriks
-maksimal 4 x 4![matriks4x4](https://github.com/hmk1337/Prokom/blob/main/matriks2x2.cpp)
+maksimal 4 x 4! [matriks4x4](https://github.com/hmk1337/Prokom/blob/main/matriks2x2.cpp)
