@@ -1,10 +1,15 @@
 #include<iostream>
 #include<conio.h>
 
-#define z 4
+
 using namespace std ;
 
+
 int main(){
+	int z;
+    cout<<"Masukan Jumlah Matrix yang di inginkan : ";
+    cin>>z;
+    
 
     int A[z][z]={0},B[z][z]={0},C[z][z]={0},D[z][z]={0},E[z][z]={0},i=0,j=0;
 
@@ -18,7 +23,7 @@ int main(){
 
             cout<<"Input elemen baris ke-"<<i+1<<" kolom ke- "
 
-            <<j+1<<" : ";cin>>A[i][j];
+                <<j+1<<" : ";cin>>A[i][j];
 
         }
 
@@ -34,7 +39,7 @@ int main(){
 
             cout<<"Input elemen baris ke-"<<i+1<<" kolom ke- "
 
-            <<j+1<<" : ";cin>>B[i][j];
+                <<j+1<<" : ";cin>>B[i][j];
 
         }
 
