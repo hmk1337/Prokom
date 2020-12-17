@@ -79,3 +79,9 @@ Tugas 6
 Tugas 7
 1. Buat program penjumlah, pengurangan dan perkalian matriks dengan input matriks
 maksimal 4 x 4! [matriks4x4](https://github.com/hmk1337/Prokom/blob/main/matriks2x2.cpp)
+
+# Soal & Jawab
+Tugas 8
+1. Buatlah program dengan menggunakan C, untuk menyelesaikan control robot line follower berikut
+ini. Buatlah fungsi untuk membaca nilai sensor yang disertai aksi pengendalian motor!
+ [line_follower](https://github.com/hmk1337/Prokom/blob/main/line_follower.cpp)
