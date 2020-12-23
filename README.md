@@ -90,3 +90,8 @@ ini. Buatlah fungsi untuk membaca nilai sensor yang disertai aksi pengendalian m
 Tugas 9
 1. Buatlah program rekursif untuk menghitung segitiga Pascal ! 
  [segitigaPascal](https://github.com/hmk1337/Prokom/blob/main/segitiga_pascal.cpp)
+ 
+  # Soal & Jawab
+Tugas 9
+1. Buatlah deret fibonaci dengan fungsi rekursif.
+ [segitigaPascal](https://github.com/hmk1337/Prokom/blob/main/fibo_rekursif.cpp)
