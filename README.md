@@ -95,3 +95,20 @@ Tugas 9
 Tugas 9
 1. Buatlah deret fibonaci dengan fungsi rekursif.
  [segitigaPascal](https://github.com/hmk1337/Prokom/blob/main/fibo_rekursif.cpp)
+ 
+   # Soal & Jawab
+Tugas 10
+1. Buatlah program menu dengan hirarki sebagai berikut:
+
+Menu utama:
+Aritmatika:
+Penjumlahan
+Pengurangan
+Perkalian
+Pembagian
+
+Logika:
+AND
+OR
+XOR
+[menu](https://github.com/hmk1337/Prokom/blob/main/menu.cpp)
