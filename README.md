@@ -85,3 +85,8 @@ Tugas 8
 1. Buatlah program dengan menggunakan C, untuk menyelesaikan control robot line follower berikut
 ini. Buatlah fungsi untuk membaca nilai sensor yang disertai aksi pengendalian motor!
  [line_follower](https://github.com/hmk1337/Prokom/blob/main/line_follower.cpp)
+ 
+ # Soal & Jawab
+Tugas 9
+1. Buatlah program rekursif untuk menghitung segitiga Pascal ! 
+ [segitigaPascal](https://github.com/hmk1337/Prokom/blob/main/segitiga_Pascal.cpp)
