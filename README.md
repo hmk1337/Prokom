@@ -112,3 +112,35 @@ AND
 OR
 XOR
 [menu](https://github.com/hmk1337/Prokom/blob/main/menu.cpp)
+
+
+ # Soal & Jawab
+Tugas 11
+1. Buatlah program untuk menentukan nilai mahasiswa, dengan ketentuan:
+Input: Nama mahasiswa, NIM, Nilai Tugas, Nilai UTS, Nilai UAS, Nilai praktek
+Prosentase Nilai:
+10% : Nilai Tugas
+25% : Nilai UTS
+35% : Nilai UAS
+30% : Nilai Praktek
+Jika,
+Nilai 75 – 100 maka nilai huruf adalah A
+Nilai 70 – 74,99 maka nilai huruf adalah AB
+Nilai 65 – 69,99 maka nilai huruf adalah B
+Nilai 60 – 64,99 maka nilai huruf adalah BC
+Nilai 55 – 59,99 maka nilai huruf adalah C
+Nilai 40 – 54,99 maka nilai huruf adalah D
+Nilai 0 – 39,99 maka nilai huruf adalah E
+[nilaiUlangan](https://github.com/hmk1337/Prokom/blob/main/nilai_ulangan.cpp)
+
+2. Buatlah Program untuk menampilkan bentuk persegi dengan tampilan bintang.
+Banyaknya bintang adalah mewakili lebar baris dan kolom sebuah persegi.
+Misal:
+Masukkan baris : 4
+Masukkan kolom : 7
+Maka akan tampil :
+*******
+*******
+*******
+*******
+[baris](https://github.com/hmk1337/Prokom/blob/main/baris.cpp)
