@@ -139,5 +139,4 @@ Misal:
 Masukkan baris : 4
 Masukkan kolom : 7
 Maka akan tampil :
-
 [baris](https://github.com/hmk1337/Prokom/blob/main/baris.cpp)
